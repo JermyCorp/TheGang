@@ -1,2 +1,2 @@
 # TheGang
-<b>[TheGang](https://jermycorp.github.io/TheGang/pictures.html)</b>
+<b>[TheGang](https://jermycorp.github.io/TheGang/TheGang/TheGang.html)</b>
